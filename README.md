@@ -7,6 +7,11 @@
   - Coffee
   -  
 - 🌱 I’m currently learning:
+  - Ansible
+  - Packer
+  - DevOps / DevSecOps
+  - Network Engineering
+  - 
   -  Python
   -  Django
 
