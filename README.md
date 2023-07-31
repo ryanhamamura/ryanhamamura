@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning:
   -  Python
   -  Django
-  -  Cisco networking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ryanhamamura/ryanhamamura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
